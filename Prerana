@@ -1,0 +1,19 @@
+{
+  "destination": [
+    {
+      "destCd": "020",
+      "destName": "GKP"
+    },
+     {
+      "destCd": "043",
+      "destName": "JSR"
+    },
+     {
+      "destCd": "021",
+      "destName": "CHENNAI"
+    },
+     {
+      "destCd": "043",
+      "destName": "MUMBAI"
+    },
+    ]
